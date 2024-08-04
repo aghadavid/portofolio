@@ -14,6 +14,9 @@ export default {
         secondary: "#ed3921"
       },
     },
+    fontFamily: {
+      sans: ['Poppins', 'sans-serif']
+    }
   },
   plugins: [],
 }
